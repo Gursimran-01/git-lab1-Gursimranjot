@@ -2,3 +2,5 @@ Name: Gursimranjot Singh
 Program: IT: Software Development
 Favorite Technology: Instagram
 Favorite Food: Pizza
+
+Updated
